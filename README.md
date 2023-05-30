@@ -1,4 +1,5 @@
 PROJETO: JOGO DA FORCA REVERSO- "Adivinhando Palavras"
+
 Este é um código que implementa um jogo da forca reverso, em que a máquina tenta adivinhar a palavra que você está pensando com o menor número possível de erros. O jogo é baseado em um código (falar resumidamente do código). 
 
 MOTIVAÇÃO: 
