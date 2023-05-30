@@ -23,7 +23,7 @@ METAS:
 4. 
 5. Fazer o código chutar a palavra quando algumas letras já tiverem organizadas. Exemplo: você é capaz de associar B_L_ às palavras BALA ou BELO por exemplo, sem chutar todas as letras do alfabeto;
 
-<b>PASSOS<b>
+*PASSOS*
   
 Para analisar as letras mais comuns por tamanho de palavra:
   
@@ -34,7 +34,7 @@ Para analisar as letras mais comuns por tamanho de palavra:
 5.. ordenar esse dicionário em ordem decrescente de letra mais comum
 6.. Criar uma lista de letras mais comuns para cada tamanho de palavra a partir do dicionário ordenado
   
-<b>Para adivinhar a palavra no jogo da forca:<b>
+_Para adivinhar a palavra no jogo da forca:_
 
 1. Um input que recebe o número x de letras da palavra
 
