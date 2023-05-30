@@ -23,9 +23,9 @@ METAS:
 4. 
 5. Fazer o código chutar a palavra quando algumas letras já tiverem organizadas. Exemplo: você é capaz de associar B_L_ às palavras BALA ou BELO por exemplo, sem chutar todas as letras do alfabeto;
 
-*PASSOS*
-  
-Para analisar as letras mais comuns por tamanho de palavra:
+<b>PASSOS</b>
+ 
+ _Para analisar as letras mais comuns por tamanho de palavra:_
   
 1. Dividir as palavras por tamanho e agrupar palavras de mesmo tamanho
 2. Para cada grupo de palavras, dividir as palavras em letras
