@@ -14,6 +14,8 @@ A máquina continuará fazendo tentativas até adivinhar a palavra correta ou at
 
 Ao final do jogo, você receberá a palavra adivinhada pela máquina e o número de tentativas realizadas.
 
+Aqui anexaremos os passos realizados para o programa
+
 METAS:
 1. Separar as palavras em listas de palavras com mesmo número de letras;
 2. Ordenar as letras por ordem decrescente de frequência nas palavras com x letras;
