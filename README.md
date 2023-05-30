@@ -10,11 +10,10 @@ Em um jogo da forca tradicional o usuário recebe uma palavra misteriosa e chuta
 2. Quando solicitado o se X letra aparece na palavra, responda "sim" ou "não" 
 3. Informe se a palavra está correta, respodendo "sim" ou "não"
 
-A máquina continuará fazendo tentativas até adivinhar a palavra correta ou até esgotar todas as possibilidades.
-
-Ao final do jogo, você receberá a palavra adivinhada pela máquina e o número de tentativas realizadas.
-
-Aqui anexaremos os passos realizados para o programa
+_Observações:_
+- A máquina continuará fazendo tentativas até adivinhar a palavra correta ou até esgotar todas as possibilidades.
+- Ao final do jogo, você receberá a palavra adivinhada pela máquina e o número de tentativas realizadas.
+- Aqui anexaremos os passos realizados para o programa
 
 <b>METAS:</b>
 1. Separar as palavras em listas de palavras com mesmo número de letras;
