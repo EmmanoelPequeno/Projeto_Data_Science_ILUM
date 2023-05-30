@@ -19,8 +19,7 @@ _Observações:_
 1. Separar as palavras em listas de palavras com mesmo número de letras;
 2. Ordenar as letras por ordem decrescente de frequência nas palavras com x letras;
 3. Incorporar um banco de dados grande com a maioria das palavras existentes na língua portuguesa;
-4. 
-5. Fazer o código chutar a palavra quando algumas letras já tiverem organizadas. Exemplo: você é capaz de associar B_L_ às palavras BALA ou BELO por exemplo, sem chutar todas as letras do alfabeto;
+4. Fazer o código chutar a palavra quando algumas letras já tiverem organizadas. Exemplo: você é capaz de associar B_L_ às palavras BALA ou BELO por exemplo, sem chutar todas as letras do alfabeto;
 
 <b>PASSOS</b>
  
@@ -29,9 +28,9 @@ _Observações:_
 1. Dividir as palavras por tamanho e agrupar palavras de mesmo tamanho
 2. Para cada grupo de palavras, dividir as palavras em letras
 3. Para cada grupo de palavras, contar quantas vezes cada letra aparece na lista
-4.. criar um dicionário que associa cada letra ao número de vezes que ela aparece
-5.. ordenar esse dicionário em ordem decrescente de letra mais comum
-6.. Criar uma lista de letras mais comuns para cada tamanho de palavra a partir do dicionário ordenado
+4. criar um dicionário que associa cada letra ao número de vezes que ela aparece
+5. ordenar esse dicionário em ordem decrescente de letra mais comum
+6. Criar uma lista de letras mais comuns para cada tamanho de palavra a partir do dicionário ordenado
   
 _Para adivinhar a palavra no jogo da forca:_
 
