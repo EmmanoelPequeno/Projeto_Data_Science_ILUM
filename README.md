@@ -1,4 +1,4 @@
-## <b>PROJETO: JOGO DA FORCA REVERSO- "Adivinhando Palavras"</b>
+## <b>PROJETO: JOGO DA FORCA - "Adivinhando Palavras"</b>
 
 Grupo: Davi José, Iasodara do Carmo, Mayllon Emmanoel, Natália Alcântara
 
