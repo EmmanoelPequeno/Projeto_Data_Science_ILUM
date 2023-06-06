@@ -41,8 +41,8 @@ _Para adivinhar a palavra no jogo da forca:_
 5. Para cada item da lista de letras mais comuns, o código pergunta se aquela letra está presente na palavra
 
 <b>METAS:</b> (Marcar com "Ok" ao lado quando tiver concluida)
-1. Separar as palavras em listas de palavras com mesmo número de letras;
-2. Ordenar as letras por ordem decrescente de frequência nas palavras com x letras;
+1. Separar as palavras em listas de palavras com mesmo número de letras; Ok
+2. Ordenar as letras por ordem decrescente de frequência nas palavras com x letras; Ok
 3. Incorporar um banco de dados grande com a maioria das palavras existentes na língua portuguesa;
 4. Fazer o código chutar a palavra quando algumas letras já tiverem organizadas. Exemplo: você é capaz de associar B_L_ às palavras BALA ou BELO por exemplo, sem chutar todas as letras do alfabeto;
 5. fazer com que o código pare de rodar assim que a palavra é adivinhada (ele precisar perguntar se está certo e então parar ou continuar)
