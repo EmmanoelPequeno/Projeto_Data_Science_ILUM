@@ -1,4 +1,4 @@
-## <b>PROJETO: JOGO DA FORCA - "Adivinhando Elementos Químicos </b>
+## <b>PROJETO: JOGO DA FORCA - "Adivinhando Elementos Químicos" </b>
 
 Grupo: Davi José, Iasodara do Carmo, Mayllon Emmanoel Pequeno e Natália Alcantara
 
