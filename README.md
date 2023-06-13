@@ -1,8 +1,8 @@
-## <b>PROJETO: JOGO DA FORCA - "Adivinhando Palavras"</b>
+## <b>PROJETO: JOGO DA FORCA - "Adivinhando Elementos Químicos </b>
 
 Grupo: Davi José, Iasodara do Carmo, Mayllon Emmanoel e Natália Alcântara
 
-Este é um código que implementa um jogo da forca reverso, em que a máquina tenta adivinhar a palavra que você está pensando com o menor número possível de erros. 
+Este é um código que implementa um jogo da forca reverso, em que a máquina tenta adivinhar a palavra que você está pensando com o menor número possível de erros.
 
 <b>MOTIVAÇÃO:</b>
 Em um jogo da forca tradicional o usuário recebe uma palavra misteriosa e chuta letras com um número de chances limitado, até que ele acerte a palavra. Já neste projeto, o usuário informa o número de letras de uma palavra arbitrária para a máquina adivinhar.
