@@ -1,6 +1,6 @@
 ## <b>PROJETO: JOGO DA FORCA - "Adivinhando Elementos Químicos </b>
 
-Grupo: Davi José, Iasodara do Carmo, Mayllon Emmanoel e Natália Alcântara
+Grupo: Davi José, Iasodara do Carmo, Mayllon Emmanoel Pequeno e Natália Alcântara
 
 Este é um código que implementa um jogo da forca reverso, em que a máquina tenta adivinhar a palavra que você está pensando com o menor número possível de erros.
 
