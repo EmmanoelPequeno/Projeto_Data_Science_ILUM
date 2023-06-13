@@ -40,10 +40,15 @@ _Para adivinhar a palavra no jogo da forca:_
 5. Para cada item da lista de letras mais comuns, o código pergunta se aquela letra está presente na palavra
 
 <b>METAS:</b> (Marcar com "Ok" ao lado quando tiver concluida)
-4. Fazer o código chutar a palavra quando algumas letras já tiverem organizadas. Exemplo: você é capaz de associar B_L_ às palavras BALA ou BELO por exemplo, sem chutar todas as letras do alfabeto;
-5. fazer com que o código pare de rodar assim que a palavra é adivinhada (ele precisar perguntar se está certo e então parar ou continuar)
-6. fazer com que, ao usuário informar que não existe uma letra na palavra, o codigo refaça uma análise das letras mais comuns em palavras de x número de letras que NÃO TENHAM aquela letra. (com o objetivo de que ele acerte com um menor numero de erros)
-7.  Fazer com que o código tente chutar a palavra quando ele tiver 70% das letras 
+
+1. Fazer o código chutar a palavra quando algumas letras já tiverem organizadas. Exemplo: você é capaz de associar B_L_ às palavras BALA ou BELO por exemplo, sem chutar todas as letras do alfabeto;
+
+2. fazer com que o código pare de rodar assim que a palavra é adivinhada (ele precisar perguntar se está certo e então parar ou continuar)
+
+3. fazer com que, ao usuário informar que não existe uma letra na palavra, o codigo refaça uma análise das letras mais comuns em palavras de x número de letras que NÃO TENHAM aquela letra. (com o objetivo de que ele acerte com um menor numero de erros)
+
+
+4.  Fazer com que o código tente chutar a palavra quando ele tiver 70% das letras 
 
 _Bônus:_
 - Fazer a interface gráfica
