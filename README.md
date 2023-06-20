@@ -2,7 +2,7 @@
 
 Grupo: Davi José, Iasodara do Carmo, Mayllon Emmanoel Pequeno e Natália Alcantara
 
-O arquivo "_Forca_Definitivo_" é um código que implementa um jogo da forca reverso baseado em um banco de palavras dos elementos químicos da tabela peródica, no qual a máquina tenta adivinhar a palavra que você está pensando com o menor número possível de erros. 
+O arquivo "_Forca_Definitivo_" é um código que implementa um jogo da forca reverso baseado em um banco de palavras dos elementos químicos da tabela peródica, no qual a máquina tenta adivinhar a palavra que você está pensando com o menor número possível de erros. É importante baixar o arquivo "elementos.txt" para importar os dados utilizados pelo código
 
 <b>MOTIVAÇÃO:</b>
 Em um jogo da forca tradicional o usuário recebe uma palavra misteriosa e chuta letras com um número de chances limitado, até que ele acerte a palavra. Já neste projeto, o usuário informa o número de letras da palavra para a máquina adivinhar.
@@ -43,5 +43,10 @@ _Para adivinhar a palavra no jogo da forca:_
 2. fazer com que o código chute a palavra e pare de rodar assim que a mesma é adivinhada.  
 
 3. fazer com que, ao usuário informar que não existe uma letra na palavra, o codigo refaça uma análise das letras mais comuns em palavras de x número de letras que NÃO TENHAM aquela letra. (com o objetivo de que ele acerte com um menor numero de erros)
+
+   _REPORTANDO ERROS:_
+    1. Apesar de funcionar bem para muitas palavras, o código encontra erro para palavras muito parecidas conforme diminui o número de letras faltantes. Ao testar a   palavra hélio, quando falta apenas uma letra para completá-la aparecem novas palavras na lista de elementos possíveis.
+    2. Não conseguimos encerrar sem mostrar mensagens de erro.
+    3. Não conseguimos atualizar a lista de letras frequentes conforme o usuário confirma que a letra não está na palavra.
 
 
